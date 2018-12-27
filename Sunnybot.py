@@ -152,5 +152,3 @@ async def searchimg(searchterm, channel):
 #@bot.command(pass_context=True)
 #async def eightball(ctx, user: discord.Member):
 #	await bot.say(random.choice("Definetly ", "Its highly likely ", "Maybe ", "Its not likely ", "Certainly not ", "Of course not, smh my head ", "How would i know? ") + user.name
-	
-bot.run("NTI1ODg0OTkwNTE3NTQyOTE5.Dv9JDg.iLfwiY9_2jqm-nEDEWjNztV04Yg")
